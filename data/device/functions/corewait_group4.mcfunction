@@ -1,0 +1,10 @@
+execute if score arg2 mcm matches 41 run schedule function core:command 41t replace
+execute if score arg2 mcm matches 42 run schedule function core:command 42t replace
+execute if score arg2 mcm matches 43 run schedule function core:command 43t replace
+execute if score arg2 mcm matches 44 run schedule function core:command 44t replace
+execute if score arg2 mcm matches 45 run schedule function core:command 45t replace
+execute if score arg2 mcm matches 46 run schedule function core:command 46t replace
+execute if score arg2 mcm matches 47 run schedule function core:command 47t replace
+execute if score arg2 mcm matches 48 run schedule function core:command 48t replace
+execute if score arg2 mcm matches 49 run schedule function core:command 49t replace
+execute if score arg2 mcm matches 50 run schedule function core:command 50t replace
