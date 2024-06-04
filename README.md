@@ -4,7 +4,8 @@ For architecture explanations, see [**IGB VM**](https://github.com/krypciak/IGB-
 
 You can write programs for it using the [**IGB L2**](https://github.com/krypciak/IGB-Compiler-L2) programming language.
 
-**DISCLAMER:** Doesn't work in >= 1.18 (See [[MC-255244]](https://bugs.mojang.com/browse/MC-255244))
+**DISCLAMER:** Doesn't work from 1.18 to 1.20.2 (See [[MC-255244]](https://bugs.mojang.com/browse/MC-255244))  
+The bug above was fixed in 1.20.3, but this project was not tested on this version, so it may or may not work.
 
 # Example programs:  
 ## [Tetris](https://github.com/krypciak/IGB-VM/tree/main/IGB/L2/tetris)
